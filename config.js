@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yayyyyyy! I Love Youuuu! 🎉💝💖💝💓",
-        message: "I wish you were here!☹️",
+        title: "Yayyyyyy! 🎉💝💖💝💓",
+        message: "I Love You to the moon and back!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
